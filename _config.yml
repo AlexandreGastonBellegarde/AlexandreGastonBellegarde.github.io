@@ -84,8 +84,8 @@ author:
   avatar           : "PhotoAlex.png"
   bio              : "Réseaux"
   location         : "Paris, France"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://lmc2.u-paris.fr/les-membres/alexandre-gaston-bellegarde/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/scholar?hl=fr&as_sdt=0,5&q=alexandre+gaston+bellegarde"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://fr.linkedin.com/in/alexandre-gaston-bellegarde-67160112b"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
