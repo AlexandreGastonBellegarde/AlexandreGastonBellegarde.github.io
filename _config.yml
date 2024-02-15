@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Menu"
+  name             : "   Menu"
   avatar           : "PhotoAlex.png"
   bio              : "Réseaux"
   location         : "Paris, France"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/AlexandreGastonBellegarde"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
