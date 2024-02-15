@@ -84,7 +84,7 @@ author:
   avatar           : "PhotoAlex.png"
   bio              : "Réseaux"
   location         : "Paris, France"
-  employer         : "https://lmc2.u-paris.fr/les-membres/alexandre-gaston-bellegarde/"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/scholar?hl=fr&as_sdt=0,5&q=alexandre+gaston+bellegarde"
   email            :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://fr.linkedin.com/in/alexandre-gaston-bellegarde-67160112b"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@lmc2.u-paris"
   wikipedia        :
 
 
