@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexandre Gaston-Bellegarde Développeur en réalité virtuel et neuropsychologue"
+title: "Alexandre Gaston-Bellegarde, Développeur en réalité virtuelle et Neuropsychologue"
 author_profile: true
 redirect_from: 
   - /about/
