@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Site personnel d'Alexandre Gaston-Bellegarde ingénieur en réalité virtuel et neuropsychologue"
+title: "Alexandre Gaston-Bellegarde ingénieur en réalité virtuel et neuropsychologue"
 author_profile: true
 redirect_from: 
   - /about/
