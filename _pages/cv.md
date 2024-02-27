@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
 <ins>Expériences professionnelles</ins>
 ======
  <ins>Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)</ins>  (depuis 2018 - Université Paris Cité) 
