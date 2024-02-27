@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-======
-<ins>Expériences professionnelles</ins>
+
+Expériences professionnelles
 ======
  Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
  
@@ -23,7 +23,7 @@ redirect_from:
 <ins>Ingénieur en réalité virtuelle</ins> 
 (Université Paris Cité - Laboratoire LMC²)
 
-======
+
   * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique
   * Participation à l’élaboration de projets de recherche
   * Gestion de projets
@@ -34,7 +34,7 @@ redirect_from:
   * Valorisation de projets scientifiques en produits commerciaux
 
 
-<ins>Neuropsychologue</ins> (en cabinet libéral depuis 2018)
+Neuropsychologue (en cabinet libéral depuis 2018)
 ======
 * Bilans neuropsychologiques enfants et adultes
 * Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, mindfullness...)
