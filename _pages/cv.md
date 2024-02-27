@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Expériences professionnelles
+<ins>Expériences professionnelles</ins>
 ======
  Responsable de la Plateforme RV-PSY (depuis 2018 - Université Paris Cité) [Site](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)
  
