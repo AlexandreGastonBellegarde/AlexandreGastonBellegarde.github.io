@@ -24,28 +24,28 @@ Expériences professionnelles
 (Université Paris Cité - Laboratoire LMC²)
 
 
-  * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique
-  * Participation à l’élaboration de projets de recherche
-  * Gestion de projets
+  * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique.
+  * Participation à l’élaboration de projets de recherche.
+  * Gestion de projets.
   * Encadrement de stagiaires
-  * Veille technologique et scientifique
-  * Gestion informatique et maintenance des matériels
-  * Négociations avec les fournisseurs et les prestataires de services
-  * Valorisation de projets scientifiques en produits commerciaux
+  * Veille technologique et scientifique.
+  * Gestion informatique et maintenance des matériels.
+  * Négociations avec les fournisseurs et les prestataires de services.
+  * Valorisation de projets scientifiques en produits commerciaux.
 
 
 Neuropsychologue 
 ======
 
 * Neuropsychologue en cabinet libéral depuis 2018
-  * Bilans neuropsychologiques enfants et adultes
-  * Entrainement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...)
-  * Spécialisations: Bilan d'efficience intellectuelle, bilan neuropsychologique, bilan attentionnel et exécutif, bilan neruovisuel
+  * Bilans neuropsychologiques enfants et adultes.
+  * Entrainement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...).
+  * Spécialisations: bilan d'efficience intellectuelle, bilan neuropsychologique, bilan attentionnel et exécutif, bilan neurovisuel.
 
 * Neuropsychologue au sein de la Fondation Ophtalmologique Adolphe de Rothschild de 2014 à 2018
-  * Diagnostics neuropsychologiques enfants et adultes
-  * Élaboration de propositions d'interventions, de remédiations cognitives etpsychopédagogiques
-  * Création de programmes de remédiation spécifique
+  * Diagnostics neuropsychologiques enfants et adultes.
+  * Élaboration de propositions d'interventions, de remédiations cognitives et psychopédagogiques.
+  * Création de programmes de remédiation spécifique.
 
 
 Publications
