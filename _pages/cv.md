@@ -11,7 +11,7 @@ redirect_from:
 
 <ins>Expériences professionnelles</ins>
 ======
- Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/) (depuis 2018 - Université Paris Cité) 
+ <ins>Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)</ins>  (depuis 2018 - Université Paris Cité) 
  
   * Activités de conseil et d'expertise pour des projets européens et nationaux
   * Développement de solutions logicielles sur mesure en réalité virtuelle. Notamment des logiciels cliniques à destination de patients: par exemeple:  des personnes atteintes de schizophrénie, des patient à des stades légers de démence, des enfants atteints d'un trouble attentionnel, ect.
