@@ -20,7 +20,8 @@ redirect_from:
    * Enseignements: création de contenus pédagogiques innovant, formation des compétences de pointes en réalité virtuelle au sein du diplôme universitaire: "Réalité Virtuelle et Domaines de la Psychologie" [Plus d'informations ici](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-humaines-et-sociales-SHS/du-realite-virtuelle-et-domaines-de-la-psychologie-JM9B60NO.html).
    Enseignements en licence, master de recherche en cognition et de neuropsychologie.
 
-Ingénieur en réalité virtuelle (Université Paris Cité - Laboratoire LMC²)
+<ins>Ingénieur en réalité virtuelle</ins> 
+(Université Paris Cité - Laboratoire LMC²)
 ======
   * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique
   * Participation à l’élaboration de projets de recherche
@@ -32,7 +33,7 @@ Ingénieur en réalité virtuelle (Université Paris Cité - Laboratoire LMC²)
   * Valorisation de projets scientifiques en produits commerciaux
 
 
-Neuropsychologue (en cabinet libéral depuis 2018)
+<ins>Neuropsychologue</ins> (en cabinet libéral depuis 2018)
 ======
 * Bilans neuropsychologiques enfants et adultes
 * Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, mindfullness...)
