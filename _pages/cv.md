@@ -34,13 +34,14 @@ Expériences professionnelles
   * Valorisation de projets scientifiques en produits commerciaux
 
 
-Neuropsychologue (en cabinet libéral depuis 2018)
+Neuropsychologue 
 ======
-* Bilans neuropsychologiques enfants et adultes
-* Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, mindfullness...)
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _publications/
+
+* Neuropsychologue en cabinet libéral depuis 2018
+  * Bilans neuropsychologiques enfants et adultes
+  * Entrainement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...)
+  * Spécialisations: Bilan d'efficience intellectuelle, bilan neuropsychologique, bilan attentionnel et exécutif, bilan neruovisuel
+
 * Neuropsychologue au sein de la Fondation Ophtalmologique Adolphe de Rothschild de 2014 à 2018
   * Diagnostics neuropsychologiques enfants et adultes
   * Élaboration de propositions d'interventions, de remédiations cognitives etpsychopédagogiques
