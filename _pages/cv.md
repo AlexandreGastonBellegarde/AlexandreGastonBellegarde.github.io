@@ -16,35 +16,25 @@ Expériences professionnelles
   * Activités de conseil et d'expertise pour des projets européens et nationaux
   * Développement de solutions logicielles sur mesure en réalité virtuelle. Notamment des logiciels cliniques à destination de patients: par exemeple:  des personnes atteintes de schizophrénie, des patient à des stades légers de démence, des enfants atteints d'un trouble attentionnel, ect.
    * Développement de solutions logicielles afin d'étudier le fonctionnement cérébral : études de la mémoire épisodique, embodiment, prévention du stress post-traumatique, émotions, cognition sociale, soft skills. Etudes réalisées en collaboration avec d'autres laboratoires de recherche (Collège de France, IMMA, Sainte-Anne, C3RP, AP-HP), mais aussi des industriels (SNCF, Police Scientifique,Dassault Systemes, IHEMI, France Alzheimer).
-   * Enseignements: création de contenus pédagogiques innovant, formation des compétences de pointes en réalité virtuelle au sein du diplôme universitaire: "Réalité Virtuelle et Domaines de la Psychologie" [Plus d'informations ici](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-humaines-et-sociales-SHS/du-realite-virtuelle-et-domaines-de-la-psychologie-JM9B60NO.html).Enseignements en licence, master de recherche en cognition et de neuropsychologie.
+   * Enseignements: création de contenus pédagogiques innovant, formation des compétences de pointes en réalité virtuelle au sein du diplôme universitaire: "Réalité Virtuelle et Domaines de la Psychologie" [Plus d'informations ici](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-humaines-et-sociales-SHS/du-realite-virtuelle-et-domaines-de-la-psychologie-JM9B60NO.html).
+   Enseignements en licence, master de recherche en cognition et de neuropsychologie.
 
 Ingénieur en réalité virtuelle (Université Paris Cité - Laboratoire LMC²)
 ======
   * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique
-
   * Participation à l’élaboration de projets de recherche
-
   * Gestion de projets
-
   * Encadrement de stagiaires
-
   * Veille technologique et scientifique
-
   * Gestion informatique et maintenance des matériels
-
   * Négociations avec les fournisseurs et les prestataires de services
-
   * Valorisation de projets scientifiques en produits commerciaux
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Neuropsychologue (en cabinet libéral depuis 2018)
 ======
 * Bilans neuropsychologiques enfants et adultes
-* Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle,serious game, métacognition, cohérence cardiaque, mindfullness...)
+* Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, mindfullness...)
 
 
 Publications
