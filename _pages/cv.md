@@ -11,12 +11,12 @@ redirect_from:
 
 Expériences professionnelles
 ======
- <ins>Responsable de la</ins> [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
+ Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
  
   * Activités de conseil et d'expertise pour des projets européens et nationaux
   * Développement de solutions logicielles sur mesure en réalité virtuelle. Notamment des logiciels cliniques à destination de patients: par exemeple:  des personnes atteintes de schizophrénie, des patient à des stades légers de démence, des enfants atteints d'un trouble attentionnel, ect.
    * Développement de solutions logicielles afin d'étudier le fonctionnement cérébral : études de la mémoire épisodique, embodiment, prévention du stress post-traumatique, émotions, cognition sociale, soft skills. Etudes réalisées en collaboration
-   avec d'autres laboratoires de recherche (Collège de France, IMMA,Sainte-Anne, C3RP, AP-HP) mais aussi des industriels (SNCF, Police Scientifique, Dassault Systemes, IHEMI, France Alzheimer).
+   avec d'autres laboratoires de recherche (Collège de France, IMMA, Sainte-Anne, C3RP, AP-HP) mais aussi des industriels (SNCF, Police Scientifique, Dassault Systemes, IHEMI, France Alzheimer).
    * Enseignements: création de contenus pédagogiques innovant, formation des compétences de pointes en réalité virtuelle au sein du diplôme universitaire: "Réalité Virtuelle et Domaines de la Psychologie" [Plus d'informations ici](https://odf.u-paris.fr/fr/offre-de-formation/diplome-d-universite-1/sciences-humaines-et-sociales-SHS/du-realite-virtuelle-et-domaines-de-la-psychologie-JM9B60NO.html).
    Enseignements en licence, master de recherche en cognition et de neuropsychologie.
 
@@ -38,6 +38,13 @@ Neuropsychologue (en cabinet libéral depuis 2018)
 ======
 * Bilans neuropsychologiques enfants et adultes
 * Entrainement cognitif : utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, mindfullness...)
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _publications/
+* Neuropsychologue au sein de la Fondation Ophtalmologique Adolphe de Rothschild de 2014 à 2018
+  * Diagnostics neuropsychologiques enfants et adultes
+  * Élaboration de propositions d'interventions, de remédiations cognitives etpsychopédagogiques
+  * Création de programmes de remédiation spécifique
 
 
 Publications
