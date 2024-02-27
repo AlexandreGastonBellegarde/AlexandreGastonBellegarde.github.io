@@ -11,11 +11,12 @@ redirect_from:
 
 Expériences professionnelles
 ======
- **Responsable de la Plateforme RV-PSY** (depuis 2018 - Université Paris Cité)
+ Responsable de la Plateforme RV-PSY (depuis 2018 - Université Paris Cité)
  
   * Activités de conseil et d'expertise pour des projets européens et nationaux
   * Développement de solutions logicielles sur mesure en réalité virtuelle.
  Notamment des logiciels cliniques à destination de patients: par exemeple:  des personnes atteintes de schizophrénie, des patient à des stades légers de démence, des enfants atteints d'un trouble attentionnel, ect.
+   * Développement de solutions logicielles afin d'étudier le fonctionnement cérébral : études de la mémoire épisodique, embodiment, prévention du stress post-traumatique, émotions, cognition sociale, soft skills. Etudes réalisées en collaboration avec d'autres laboratoires de recherche (Collège de France, IMMA, Sainte-Anne, C3RP, AP-HP), mais aussi des industriels (SNCF, Police Scientifique,Dassault Systemes, IHEMI, France Alzheimer).
 
 Work experience
 ======
