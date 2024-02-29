@@ -11,5 +11,5 @@ citation: 'Drai-Zerbib, V., Bernigaud, L.,Gaston-Bellegarde, A
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paperDrai.pdf)
+[Download paper here](http://alexandregastonbellegarde.github.io/files/paperDrai.pdf)
 
