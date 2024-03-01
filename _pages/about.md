@@ -20,11 +20,5 @@ Consultation en neuropsychologie
 J'exerce également une activité de psychologue spécialisé en neuropsychologue. [Plus d'information]()
 
 
-------
-
-
-------
-
-
 
 ------
