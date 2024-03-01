@@ -60,6 +60,21 @@ Neuropsychologue
   * Français: Langue maternelle
   * Anglais: Compétence professionnelle complète
   
+<ins>Atouts</ins> 
+======
+
+* Gestion de projet
+  * Expérience de 5 ans avec des aptitudes à gérer et à organiser des projets complexes dans le domaine de la réalité virtuelle
+* Compétences techniques avancées
+  * Maîtrise des technologies de développement pour la réalité virtuelle, avec une connaissance approfondie de Unity 3D
+  * Scene Design // Pipeline (Standard/URP/HDRP)
+  * Optimisation // Test et debug d'applications en réalité virtuelle
+  * Bonne connaissance du C# // Utilisation d'API et de frameworks
+  * Maitrise de l'association entre le logiciel Unity 3D et des capteurs physiologiques (ECG,EDA, EEG, eye-tracking)
+* Créations 3D
+  * Utilisation de logiciels de modélisation d'avatar (Character Creator 4, Iclone, Mixamo, Microsoft RockeBox) // Modélisations de modèles 3D
+  * Gestion de nuage de points //Création d'éléments en photogrammétrie
+
 
 Publications
 ======
@@ -67,12 +82,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 ---
 
 [Télécharger le CV en Français](https://alexandregastonbellegarde.github.io/files/CV_French.pdf)
