@@ -1,6 +1,6 @@
 ---
 permalink: /
-
+title: "Alexandre Gaston-Bellegarde"
 author_profile: true
 redirect_from: 
   - /about/
