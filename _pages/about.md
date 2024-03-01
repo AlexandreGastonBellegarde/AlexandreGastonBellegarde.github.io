@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Alexandre Gaston-Bellegarde"
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-------
+
 Ingénieur spécialisé en réalité virtuelle & Neuropsychologue
 ======
 
