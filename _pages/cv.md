@@ -47,6 +47,19 @@ Neuropsychologue
   * Élaboration de propositions d'interventions, de remédiations cognitives et psychopédagogiques.
   * Création de programmes de remédiation spécifique.
 
+---
+
+<ins>Formation</ins> 
+
+  * Obtention du Master en psychologie, spécialité neuropsychologie et psychologie cognitive à L'université de Paris Cité (ex-Descartes) en 2014.
+
+---
+
+<ins>Langues</ins> 
+
+  * Français: Langue maternelle
+  * Anglais: Compétence professionnelle complète
+  
 
 Publications
 ======
@@ -60,7 +73,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-
 ---
 
 [Télécharger le CV en Français](https://alexandregastonbellegarde.github.io/files/CV_French.pdf)
