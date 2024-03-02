@@ -2,9 +2,6 @@
 permalink: /
 title: "Alexandre Gaston-Bellegarde"
 ---
----
-
-
 
 Ingénieur en réalité virtuelle & Neuropsychologue
 ======
@@ -21,4 +18,4 @@ J'exerce également une activité de psychologue spécialisé en neuropsychologu
 
 ------
 
-excerpt: "<br/><img src='/images/HQ_Brain.jpg'>"
+<br/><img src='/images/HQ_Brain.jpg'>
