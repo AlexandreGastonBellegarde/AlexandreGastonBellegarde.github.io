@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://AlexandreGastonBellegarde.github.io/ # the base hostname & protocol for your site e.g. "https:/AlexandreGastonBellegarde.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexandreGastonBellegarde/AlexandreGastonBellegarde.github.io"
-teaser                   : "<br/><img src='/images/vrbrain.png'>"
+teaser                   : false
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
