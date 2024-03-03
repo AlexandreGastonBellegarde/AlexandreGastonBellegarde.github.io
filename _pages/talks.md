@@ -23,8 +23,7 @@ Il existe deux principales techniques de remédiation cognitive. La première co
 
 La seconde consiste à contourner la difficulté, en réfléchissant à des stratégies de compensation s’appuyant sur les capacités préservées du patient (par exemple, noter les informations à retenir, utiliser des moyens mnémotechniques…).
 
-L’une et/ou l’autre de ces stratégies peuvent être utilisées, que la remédiation soit plutôt axée sur la neurocognition (concentration, attention, mémoire de travail) ou la cognition sociale (capacités à interagir avec les autres).
-
+<ins>Le déficit d’attention avec ou sans hyperactivité et impulsivité (TDAH)</ins> est un trouble qui est particulièrement approprié pour la remédiation cognitive en raison de ses composantes neurobiologiques et cognitives. 
 
 
 ---
