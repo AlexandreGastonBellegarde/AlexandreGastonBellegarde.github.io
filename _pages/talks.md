@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Consultation: Qui suis-je ?"
 permalink: /talks/
 author_profile: true
 ---
