@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Virtual clinic of the psychology examination: A new pedagogical tool for simulating"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023
+venue: ' L'année psychologique'
+paperurl: 'https://www.cairn.info/revue-l-annee-psychologique-2023-2-page-357.htm'
+citation: 'Piolino, P., Gaston-Bellegarde, A., & Jambaqué, I. (2023). Virtual clinic of the psychology examination: A new pedagogical tool for simulating. LAnnee psychologique, 123(2), 357-365.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
