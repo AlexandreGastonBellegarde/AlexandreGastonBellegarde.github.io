@@ -13,7 +13,7 @@ J’interviens auprès des enfants, adolescents, adultes mais également auprès
 * <ins>Mes champs de compétence</ins> 
   * Bilans neuropsychologiques enfants et adultes.
   * Entrainement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...).
-  * Spécialisations: bilan d'efficience intellectuelle (WISC – WPPSI – WAIS – KABC), bilan neuropsychologique, bilan attentionnel et exécutif, bilan neurovisuel, bilan.
+  * Spécialisations: bilan d'efficience intellectuelle (WISC – WPPSI – WAIS), bilan neuropsychologique, bilan attentionnel et exécutif, bilan neurovisuel, bilan.
 
 * La marojrité de mon activitée se focalise sur la remédiation cognitive
 
@@ -32,6 +32,14 @@ La remédiation cognitive et métacognitive pour le TDAH est donc soutenue par d
 * <ins>Durée moyenne de prise en charge en remédiation cognitive</ins> 
 
 La durée moyenne de prise en charge dans un programme de remédiation cognitive pour le TDAH, selon les études, varient entre 20 et30 séances. Cette durée peut varier en fonction des besoins spécifiques de l’individu et de l’intensité du programme de remédiation cognitive mis en place.
+
+* <ins>Tarifs</ins> 
+
+  *Bilan psychométrique seul (WPPSI-IV, WISC-V, WAIS IV) 400 €
+  *Bilan attentionnel (listes des tests à définir en fonction des besoins et de l'âge) 300 €
+  *Bilan neurovisuel - Consultation de remédiation cognitive (60 minutes) 250 €
+  *Enfant/Adulte - Consultation de remédiation cognitive (60 minutes) 70 €
+ 
 
 ---
 
