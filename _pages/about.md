@@ -12,7 +12,7 @@ Un de mes réels points forts est une connaissance avancée à la fois des neuro
 
 Consultation en neuropsychologie
 ======
-J'exerce également une activité de psychologue spécialisé en neuropsychologue. [Plus d'information]()
+J'exerce également une activité de psychologue spécialisé en neuropsychologue. [Plus d'information](https://alexandregastonbellegarde.github.io//talks/)
 
 
 
