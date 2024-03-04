@@ -30,7 +30,7 @@ La remédiation cognitive et métacognitive pour le TDAH est donc soutenue par d
 
 <ins>Durée moyenne de prise en charge en remédiation cognitive</ins> 
 
-La durée moyenne de prise en charge dans un programme de remédiation cognitive pour le TDAH, selon les études, varient entre 20 et30 séances. Cette durée peut varier en fonction des besoins spécifiques de l’individu et de l’intensité du programme de remédiation cognitive mis en place.
+La durée moyenne de prise en charge dans un programme de remédiation cognitive pour le TDAH, selon les études, varient entre 20 et 30 séances. Cette durée peut varier en fonction des besoins spécifiques de l’individu et de l’intensité du programme de remédiation cognitive mis en place.
 
 * <ins>Tarifs</ins> 
 
