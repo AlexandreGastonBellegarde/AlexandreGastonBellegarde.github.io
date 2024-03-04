@@ -41,7 +41,7 @@ La durée moyenne de prise en charge dans un programme de remédiation cognitive
  
 ### Pour prendre rendez-vous : contacter moi par mail : alexandre.bellegarde@gmail.com
 
-#### Mon cabinet de consultation se situe au 12 avenue de la grande armée - 75017 - Paris
+### Mon cabinet de consultation se situe au 12 avenue de la grande armée - 75017 - Paris
 
 ---
 
