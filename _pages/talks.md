@@ -25,7 +25,12 @@ La seconde consiste à contourner la difficulté, en réfléchissant à des stra
 
 <ins>Le déficit d’attention avec ou sans hyperactivité et impulsivité (TDAH)</ins> est un trouble qui est particulièrement approprié pour la remédiation cognitive en raison de ses composantes neurobiologiques et cognitives. 
 
+Les méta-analyses et revues de la littérature montrent une amélioration de la mémoire de travail auditivo-verbale et/ou visuospatiale grâce à des programmes de remédiation cognitive comme Cogmed, auprès de populations atteintes de TDAH (https://doi.org/10.1016/j.neurenf.2019.11.001). Ces programmes ciblent les fonctions cognitives altérées et sont souvent informatisés pour permettre un ajustement automatique et continu du niveau de difficulté des tâches aux capacités du sujet (https://doi.org/10.3917/devel.008.0005).
+La remédiation cognitive et métacognitive pour le TDAH est donc soutenue par des preuves scientifiques, indiquant son efficacité dans l'amélioration des fonctions cognitives.
 
+<ins>Durée moyenne de prise en charge en remédiation cognitive</ins> 
+
+La durée moyenne de prise en charge dans un programme de remédiation cognitive pour le TDAH, selon les études, varient entre 20 et30 séances. Cette durée peut varier en fonction des besoins spécifiques de l'individu et de l'intensité du programme de remédiation cognitive mis en place. 
 ---
 
 
