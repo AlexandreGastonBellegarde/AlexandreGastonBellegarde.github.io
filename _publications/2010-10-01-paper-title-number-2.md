@@ -8,3 +8,5 @@ paperurl: 'https://www.cairn.info/revue-l-annee-psychologique-2023-2-page-357.ht
 citation: 'Piolino, P., Gaston-Bellegarde, A., & Jambaqué, I. (2023). Virtual clinic of the psychology examination: A new pedagogical tool for simulating. LAnnee psychologique, 123(2), 357-365.'
 ---
 
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
