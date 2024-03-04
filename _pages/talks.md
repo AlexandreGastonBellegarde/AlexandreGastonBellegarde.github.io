@@ -39,6 +39,9 @@ La durée moyenne de prise en charge dans un programme de remédiation cognitive
   * Bilan neurovisuel - (bilan spécifique pour évaluer la fonction visuelle): 250 €
   * Séance de remédiation cognitive - Enfant/Adulte (60 minutes): 70 €
  
+### Pour prendre rendez-vous : contacter moi par mail : alexandre.bellegarde@gmail.com
+
+#### Mon cabinet de consultation se situe au 12 avenue de la grande armée - 75017 - Paris
 
 ---
 
