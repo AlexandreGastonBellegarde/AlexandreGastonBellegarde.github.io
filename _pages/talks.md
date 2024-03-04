@@ -34,10 +34,10 @@ La durée moyenne de prise en charge dans un programme de remédiation cognitive
 
 * <ins>Tarifs</ins> 
 
-  * Bilan psychométrique seul (WPPSI-IV, WISC-V, WAIS IV) 400 €
-  * Bilan attentionnel (listes des tests à définir en fonction des besoins et de l'âge) 300 €
-  * Bilan neurovisuel - Consultation de remédiation cognitive (60 minutes) 250 €
-  * Enfant/Adulte - Consultation de remédiation cognitive (60 minutes) 70 €
+  * Bilan psychométrique seul (WPPSI-IV, WISC-V, WAIS IV): 400 €
+  * Bilan attentionnel (listes des tests à définir en fonction des besoins et de l'âge): 300 €
+  * Bilan neurovisuel - (bilan spécifique pour évaluer la fonction visuelle): 250 €
+  * Enfant/Adulte - Consultation de remédiation cognitive (60 minutes): 70 €
  
 
 ---
