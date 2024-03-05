@@ -60,7 +60,7 @@ Neuropsychologue
   * Français: Langue maternelle
   * Anglais: Compétence professionnelle complète
   
-<ins>Atouts</ins> 
+Atouts 
 ======
 
 * Gestion de projet
@@ -76,16 +76,9 @@ Neuropsychologue
   * Gestion de nuage de points //Création d'éléments en photogrammétrie
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
 ---
 
-[Télécharger le CV en Français](https://alexandregastonbellegarde.github.io/files/CV_French.pdf)
+Télécharger le CV en Français: [ici](https://alexandregastonbellegarde.github.io/files/CV_French.pdf)
 
-[Download English Resume](https://alexandregastonbellegarde.github.io/files/CV_English.pdf)
+Download English Resume: [here](https://alexandregastonbellegarde.github.io/files/CV_English.pdf)
 
