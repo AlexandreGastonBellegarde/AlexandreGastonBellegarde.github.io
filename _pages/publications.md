@@ -15,6 +15,8 @@ author_profile: true
 
 * Eva-Flore Msika, Nathalie Ehrlé, Alexandre Gaston-Bellegarde, Eric Orriols, Pascale Piolino, et al.. Using a Computer-Based Virtual Environment to Assess Social Cognition in Aging: An Exploratory Study of the REALSoCog Task. Frontiers in Psychology, 2022, 13.
 
+* Drai-Zerbib, V., Bernigaud, L.,Gaston-Bellegarde, A., Boucheix, J. M., &Baccino, T. (2022).Eye MovementsDuring Comprehension in Virtual Reality:The Influence of a Change in Point ofView Between Auditory and VisualInformation in the Activation of a MentalModel. Front. In book/conferenceFrontiers in Virtual Reality, sectionTechnologies for VR.
+
 * Kouloud Abichou, Valentina La Corte, Alexandre Bellegarde, Serge Nicolas, Pascale Piolino. How rich are false memories in a naturalistic context in healthy aging?. Memory, 2022, 30 (3), pp.262-278. 
 
 * Kouloud Abichou, Valentina La Corte, Marco Sperduti, Alexandre Gaston-Bellegarde, Serge Nicolas, et al.. The production of false recognition and the associated state of consciousness following encoding in a naturalistic context in aging. Consciousness and Cognition, 2021, 90, pp.103097.
