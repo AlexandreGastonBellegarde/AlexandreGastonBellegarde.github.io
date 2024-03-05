@@ -15,6 +15,6 @@ author_profile: true
 
 * Enseignement portant sur **l'intérêt de la réalité virtuelle en recherche clinique** "Méthodologie de la recherche avancée" en Master de Neuropsychologie
 
-* Enseignement du développement d'une solution logicielle et accompagnement des étudiants dans leurs projets de diplôme : **"Réalité Virtuelle et Cognition"** en Master 2 de Sciences Cognitives
+* Enseignement du développement d'une solution logicielle et accompagnement des étudiants dans leurs projets de diplôme: **"Réalité Virtuelle et Cognition"** en Master 2 de Sciences Cognitives
 
 * Enseignement de **"Médiation scientifique"** en Master 2: présentation d'une étude de cas afin de comprendre les différences d'ergonomie en fonction de populations spécifiques
