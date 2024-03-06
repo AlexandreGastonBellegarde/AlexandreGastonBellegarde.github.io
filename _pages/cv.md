@@ -11,8 +11,7 @@ redirect_from:
 
 Expériences professionnelles
 ======
- Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
- <img src='/images/Rond_Plateforme.png' width="120" height="120">
+ Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) <img src='/images/Rond_Plateforme.png' width="120" height="120">
 <div style="text-align: center;"> </div>
 
   * Activités de conseil et d'expertise pour des projets européens et nationaux
