@@ -11,7 +11,7 @@ redirect_from:
 
 Expériences professionnelles
 ======
-<img src='/images/Rond_Plateforme.png' width="150" height="150">
+<img src='/images/Rond_Plateforme.png' width="120" height="120">
 <div style="text-align: center;"> </div>
 
  Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
@@ -25,7 +25,8 @@ Expériences professionnelles
 
 <ins>Ingénieur en réalité virtuelle</ins> 
 (Université Paris Cité - Laboratoire LMC²)
-
+<img src='/images/lmc.png' width="120" height="120">
+<div style="text-align: center;"> </div>
 
   * Création de logiciels pour les études expérimentales ou cliniques des chercheurs : plus d'une vingtaine de logiciels créés dont dix qui ont permis ou vont permettre de valider une thèse scientifique.
   * Participation à l’élaboration de projets de recherche.
