@@ -12,9 +12,7 @@ redirect_from:
 Expériences professionnelles
 ======
 <img src='/images/Rond_Plateforme.png' width="150" height="150">
-<div style="text-align: center;">
-    ![Texte alternatif](chemin/vers/votre/image.jpg){: width="100" height="100"}
-</div>
+<div style="text-align: center;"> </div>
 
  Responsable de la [Plateforme RV-PSY](https://psychologie.u-paris.fr/plateforme-rv/la-plateforme-rv/)  (depuis 2018 - Université Paris Cité) 
 
