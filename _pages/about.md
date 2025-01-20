@@ -6,13 +6,13 @@ title: "Alexandre Gaston-Bellegarde"
 Ingénieur en réalité virtuelle & Neuropsychologue
 ======
 
-Psychologue spécialié en neuropsychologue de formation puis développeur par vocation je travail comme ingénieur au sein du laboratoire mémoire cerveau et cogntion de l'Université de Paris cité ou je suis à la fois responsable de la création des applications en réalité virtuelle au sein du laboratoire mais également au sein de la plateforme RV-Psy qui a pour objectif de diffuser la réalité virtuelle aux chercheurs universitaires.
+Psychologue spécialisé en neuropsychologie de formation puis développeur par vocation je travaille comme ingénieur au sein du laboratoire Mémoire, Cerveau et Cognition de l'Université  Paris cité où je suis à la fois responsable de la création des applications en réalité virtuelle pour le laboratoire et pour la plateforme RV-Psy qui a pour objectif de diffuser la réalité virtuelle aux chercheurs universitaires.
 
-Un de mes réels points forts est une connaissance avancée à la fois des neurosciences et aussi du développement informatique. Cela me permet decomprendre rapidement les besoins des chercheurs et des professionnelles afin de leur proposer des solutions logicielles et technologiques immédiates et innovantes en adéquation avec leurs attentes.
+Un de mes réels points forts est une connaissance avancée des neurosciences et du développement informatique. Cela me permet decomprendre rapidement les besoins des chercheurs et des professionnelles afin de leur proposer des solutions logicielles et technologiques immédiates, innovantes et en adéquation avec leurs attentes.
 
 Consultation en neuropsychologie
 ======
-J'exerce également une activité de psychologue spécialisé en neuropsychologue. [Plus d'information](https://alexandregastonbellegarde.github.io//talks/)
+J'exerce également une activité de psychologue spécialisé en neuropsychologie. [Plus d'information](https://alexandregastonbellegarde.github.io//talks/)
 
 
 
