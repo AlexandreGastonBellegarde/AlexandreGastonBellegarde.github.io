@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 
-Je suis diplômé d’un Master 2 Psychologie Cognitive et Neuropsychologie obtenu à l’Université Paris Cité (ex-Descartes) en 2014. J’exerce actuellement dans le cadre d’une activité libérale.
+Je suis diplômé d’un Master 2 Psychologie Cognitive et Neuropsychologie obtenu à l’Université Paris Cité (ex-Descartes) en 2014 et j’exerce actuellement dans le cadre d’une activité libérale.
 
-J’interviens auprès des enfants, adolescents, adultes mais également auprès des personnes âgées.
+J’interviens auprès des enfants, des adolescents, des adultes mais également auprès des personnes âgées.
 
 <ins>Mes champs de compétence</ins> 
   * Bilans neuropsychologiques enfants et adultes.
-  * Entrainement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...).
-  * Spécialisations: bilan d'efficience intellectuelle (WISC – WPPSI – WAIS), bilan neuropsychologique, bilan attentionnel et exécutif, bilan neurovisuel, bilan.
+  * Entraînement cognitif enfants et adultes: utilisation d'outils innovants (réalité virtuelle, serious game, métacognition, cohérence cardiaque, méditation en pleine conscience...).
+  * Spécialisations: bilan d'efficience intellectuelle (WISC – WPPSI – WAIS), bilan neuropsychologique, bilan attentionnel et exécutif, bilan neurovisuel.
 
 
-<ins>La remédiation cognitive</ins>  est une forme de thérapie ayant pour objectif de diminuer l’impact sur le quotidien des difficultés cognitives d’un patient, préalablement objectivées lors d’un bilan neuropsychologique.
+<ins>La remédiation cognitive</ins>  est une forme de thérapie visant à diminuer l’impact des difficultés cognitives sur le quotidien d’un patient, objectivées au préalable lors d’un bilan neuropsychologique.
 
-Il existe deux principales techniques de remédiation cognitive. La première consiste à entrainer de manière intensive la fonction déficitaire (par exemple, s’entrainer à apprendre de nouvelles informations si le patient à des problèmes de mémoire).
+Il existe deux principales techniques de remédiation cognitive. La première consiste à entrainer de manière intensive la fonction déficitaire (par exemple, s’entrainer à apprendre de nouvelles informations si le patient a des problèmes de mémoire).
 
 La seconde consiste à contourner la difficulté, en réfléchissant à des stratégies de compensation s’appuyant sur les capacités préservées du patient (par exemple, noter les informations à retenir, utiliser des moyens mnémotechniques…).
 
@@ -39,7 +39,7 @@ La durée moyenne de prise en charge dans un programme de remédiation cognitive
   * Bilan neurovisuel - (bilan spécifique pour évaluer la fonction visuelle): 250 €
   * Séance de remédiation cognitive - Enfant/Adulte (60 minutes): 70 €
  
-### Pour prendre rendez-vous : contacter moi par mail : alexandre.bellegarde@gmail.com
+### Pour prendre rendez-vous : contactez-moi par mail : alexandre.bellegarde@gmail.com
 
 ### Mon cabinet de consultation se situe au 12 avenue de la grande armée - 75017 - Paris
 
