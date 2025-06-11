@@ -18,4 +18,4 @@ J'exerce également une activité de psychologue spécialisé en neuropsychologi
 
 ------
 
-<br/><img src='/images/HQ_Brain.jpg'>
+<iframe src="https://maps.google.com/maps?q=12%20Av.%20de%20la%20Grande%20Arm%C3%A9e%2075017%20Paris&output=embed" width="600" height="450" style="border:0;width:100%;" allowfullscreen loading="lazy"></iframe>
