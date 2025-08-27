@@ -7,13 +7,13 @@ main:
     url: /talks/    
 
   - title: "Enseignements"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-   
-  - title: "CV"
-    url: /cv/
-  
+    url: /teaching/
+
   - title: "Formulaire de contact"
     url: /contact/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "CV"
+    url: /cv/
