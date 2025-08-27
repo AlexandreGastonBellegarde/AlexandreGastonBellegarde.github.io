@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+  provider               :  "plausible" # false (default), "google", "google-universal", "custom", "plausible"
+  plausible:
+    domain               : "alexandregastonbellegarde.github.io"
 
 
 # Site Author
