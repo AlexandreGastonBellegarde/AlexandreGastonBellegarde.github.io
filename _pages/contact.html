@@ -83,6 +83,23 @@ author_profile: true
       </p>
     </details>
 
+    <details class="onglet">
+      <summary>🧑‍⚕️ Prise en charge psychologique</summary>
+      <fieldset class="tests">
+        <legend class="sr-only">Prise en charge psychologique</legend>
+
+        <label class="test-item">
+          <input type="checkbox" name="psychologie[]" value="Suivi psychologique enfant">
+          <span class="test-title">Suivi psychologique — Enfant</span>
+        </label>
+
+        <label class="test-item">
+          <input type="checkbox" name="psychologie[]" value="Suivi psychologique adulte">
+          <span class="test-title">Suivi psychologique — Adulte</span>
+        </label>
+      </fieldset>
+    </details>
+
     <!-- Message libre -->
     <label for="message">Message (optionnel)</label>
     <textarea id="message" name="message" rows="5" maxlength="1000"
@@ -159,6 +176,10 @@ author_profile: true
   const isCognitif = (input) => input.dataset.type === "cognitif";
   const needsPrereq = (input) => input.dataset.type === "attentionnel-prerequis";
 
+  function atLeastOneOptionSelected() {
+    return [...document.querySelectorAll('input[name="tests[]"], input[name="psychologie[]"]')]
+           .some(i => i.checked);
+  }
   function atLeastOneTestSelected() {
     return [...document.querySelectorAll('input[name="tests[]"]')].some(i => i.checked);
   }
@@ -170,8 +191,8 @@ author_profile: true
     e.preventDefault();
 
     // Validation légère
-    if (!atLeastOneTestSelected()) {
-      alert("Veuillez sélectionner au moins un test.");
+    if (!atLeastOneOptionSelected()) {
+      alert("Veuillez sélectionner au moins un test ou une prise en charge psychologique.");
       return;
     }
     const requiresCognitive =
