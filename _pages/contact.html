@@ -1,0 +1,207 @@
+---
+layout: single
+title: "Formulaire de contact"
+permalink: /contact/
+author_profile: true
+---
+
+<section id="rdv">
+  <h2>Prendre rendez-vous</h2>
+
+  <form id="form-rdv" action="https://formspree.io/f/mdklorvz" method="POST" novalidate>
+    <!-- Identité / Contact -->
+    <label for="nom">Nom complet</label>
+    <input type="text" id="nom" name="nom" required>
+
+    <label for="email">Adresse email</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="telephone">Téléphone</label>
+    <input type="tel" id="telephone" name="telephone" inputmode="tel" autocomplete="tel">
+
+    <label for="creneau">Date et heure souhaitées</label>
+    <input type="datetime-local" id="creneau" name="creneau" required>
+
+    <!-- ONGLET : Choix des tests -->
+    <details class="onglet" open>
+      <summary>🧪 Choix des tests</summary>
+
+      <fieldset class="tests">
+        <legend class="sr-only">Choix des tests</legend>
+
+        <label class="test-item">
+          <input type="checkbox" name="tests[]" value="WPPSI IV" data-type="cognitif">
+          <span class="test-title">WPPSI IV — Évaluation cognitive / Test de QI</span>
+          <small>
+            Enfant de 2 ans et 3 mois jusqu'à 6 ans.<br>
+            <strong>Déroulement :</strong> 30 minutes d'entretien avec les parents puis 1h30 à 2h00 avec l'enfant.
+          </small>
+        </label>
+
+        <label class="test-item">
+          <input type="checkbox" name="tests[]" value="WISC V" data-type="cognitif">
+          <span class="test-title">WISC V — Évaluation cognitive / Test de QI</span>
+          <small>
+            Enfants de 6 ans jusqu’à 16 ans et 11 mois.<br>
+            <strong>Déroulement :</strong> 30 minutes d'entretien avec les parents puis 1h30 à 2h00 avec l'enfant.
+          </small>
+        </label>
+
+        <label class="test-item">
+          <input type="checkbox" name="tests[]" value="TEA-CH" data-type="attentionnel-prerequis">
+          <span class="test-title">TEA-CH — Évaluation attentionnelle</span>
+          <small>
+            Enfants de 6 ans à 15 ans et 11 mois.<br>
+            <strong>Attention :</strong> ce test ne peut être réalisé qu'après avoir fait une évaluation cognitive.
+          </small>
+        </label>
+
+        <label class="test-item">
+          <input type="checkbox" name="tests[]" value="WAIS IV" data-type="cognitif">
+          <span class="test-title">WAIS IV — Évaluation cognitive / Test de QI</span>
+          <small>
+            Personnes de 17 ans et plus (test WAIS).<br>
+            <strong>Déroulement :</strong><br>
+            • Pour les mineurs, 30 min d’entretien avec les parents puis 1h30 à 2h00 avec le jeune.<br>
+            • Pour les adultes, 30 min d’entretien puis 1h30 à 2h00 de test. Les jeunes adultes peuvent être accompagnés ou non par leurs parents.
+          </small>
+        </label>
+
+        <label class="test-item">
+          <input type="checkbox" name="tests[]" value="Attention 16+" data-type="attentionnel-prerequis">
+          <span class="test-title">Évaluation attentionnelle pour les plus de 16 ans</span>
+          <small>
+            Réalisation du D2-R, test du Zoo, des commissions, des 6 éléments, PASAT, TMT, Stroop, Hayling, cloches, CAT, Mindpulse.<br>
+            <strong>Attention :</strong> ce test ne peut être réalisé qu'après avoir fait une évaluation cognitive (durée : 2h).
+          </small>
+        </label>
+      </fieldset>
+
+      <p class="hint">
+        Veuillez cocher au moins un test. Les évaluations attentionnelles (TEA-CH et &laquo;&nbsp;Évaluation attentionnelle 16+&nbsp;&raquo;) nécessitent qu’un test
+        cognitif (WPPSI IV, WISC V, WAIS IV) soit aussi sélectionné.
+      </p>
+    </details>
+
+    <!-- Message libre -->
+    <label for="message">Message (optionnel)</label>
+    <textarea id="message" name="message" rows="5" maxlength="1000"
+      placeholder="Précisions utiles (évitez les données de santé sensibles)"></textarea>
+
+    <!-- Consentement -->
+    <label class="consent">
+      <input type="checkbox" id="consent" required>
+      <span>J’accepte que mes informations soient utilisées uniquement pour la prise de rendez-vous.</span>
+    </label>
+
+    <!-- Anti-spam -->
+    <input type="text" name="_gotcha" style="display:none">
+
+    <button type="submit">Envoyer la demande</button>
+  </form>
+
+  <!-- Confirmation inline -->
+  <p id="form-success" style="display:none; color:green; margin-top:20px;">
+    ✅ Merci ! Votre demande a bien été envoyée. Nous vous recontacterons rapidement pour confirmer le rendez-vous.
+  </p>
+</section>
+
+<style>
+  #rdv {
+    max-width: 760px; margin: 40px auto; padding: 24px;
+    background: #f9f9f9; border-radius: 12px;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    line-height: 1.45;
+  }
+  #rdv h2 { text-align: center; margin-bottom: 16px; }
+  #rdv label { display:block; margin-top:14px; font-weight:600; }
+  #rdv input[type="text"],
+  #rdv input[type="email"],
+  #rdv input[type="tel"],
+  #rdv input[type="datetime-local"],
+  #rdv textarea {
+    width: 100%; padding: 10px; margin-top: 6px; box-sizing: border-box;
+    border: 1px solid #d6d6d6; border-radius: 8px; background:#fff;
+  }
+  #rdv textarea { resize: vertical; }
+
+  .onglet { margin-top: 18px; border: 1px solid #e2e2e2; border-radius: 10px; background:#fff; }
+  .onglet > summary { cursor: pointer; padding: 12px 14px; font-weight:700; list-style: none; }
+  .onglet[open] > summary { border-bottom: 1px solid #eee; }
+  .onglet > *:not(summary) { padding: 12px 14px; }
+
+  .tests { border:0; margin:0; padding:0; }
+  .test-item { display:block; border:1px solid #eee; border-radius:10px; padding:12px; margin:10px 0; background:#fafafa; }
+  .test-item input { transform: translateY(1px); margin-right:10px; }
+  .test-title { display:block; font-weight:700; margin:4px 0 6px; }
+  .test-item small { display:block; color:#555; }
+  .hint { color:#555; margin-top:6px; }
+
+  .consent { display:flex; align-items:flex-start; gap:8px; font-weight:400; margin-top:14px; }
+  .consent input { margin-top:4px; }
+
+  #rdv button {
+    width: 100%; padding: 12px; margin-top: 18px;
+    background: #0078D7; color: #fff; border: none; border-radius: 8px; cursor: pointer; font-weight:700;
+  }
+  #rdv button:hover { background:#005fa3; }
+
+  /* Accessibilité */
+  .sr-only {
+    position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0;
+  }
+</style>
+
+<script>
+  const form = document.getElementById("form-rdv");
+  const successMsg = document.getElementById("form-success");
+
+  const isCognitif = (input) => input.dataset.type === "cognitif";
+  const needsPrereq = (input) => input.dataset.type === "attentionnel-prerequis";
+
+  function atLeastOneTestSelected() {
+    return [...document.querySelectorAll('input[name="tests[]"]')].some(i => i.checked);
+  }
+  function hasCognitiveTestSelected() {
+    return [...document.querySelectorAll('input[name="tests[]"]')].some(i => isCognitif(i) && i.checked);
+  }
+
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    // Validation légère
+    if (!atLeastOneTestSelected()) {
+      alert("Veuillez sélectionner au moins un test.");
+      return;
+    }
+    const requiresCognitive =
+      [...document.querySelectorAll('input[name="tests[]"]')].some(i => needsPrereq(i) && i.checked);
+    if (requiresCognitive && !hasCognitiveTestSelected()) {
+      alert("Les évaluations attentionnelles sélectionnées nécessitent une évaluation cognitive préalable (WPPSI IV, WISC V ou WAIS IV).");
+      return;
+    }
+    if (!document.getElementById("consent").checked) {
+      alert("Merci de consentir à l'utilisation de vos informations pour la prise de rendez-vous.");
+      return;
+    }
+
+    const data = new FormData(form);
+    try {
+      const response = await fetch(form.action, {
+        method: form.method,
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      });
+      if (response.ok) {
+        form.reset();
+        successMsg.style.display = "block";
+        successMsg.scrollIntoView({ behavior: "smooth", block: "center" });
+      } else {
+        alert("❌ Une erreur est survenue, veuillez réessayer.");
+      }
+    } catch {
+      alert("❌ Impossible d'envoyer le formulaire pour le moment. Vérifiez votre connexion et réessayez.");
+    }
+  });
+</script>
+
