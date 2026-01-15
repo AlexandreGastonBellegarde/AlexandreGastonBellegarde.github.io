@@ -24,7 +24,7 @@ La seconde consiste à contourner la difficulté, en réfléchissant à des stra
 
 <ins>TDAH : Qu'est-ce qui fonctionne vraiment ? Découvrez-le grâce aux preuves scientifiques.</ins>
 
-Entre les médicaments, les thérapies et les nouvelles méthodes, il est parfois difficile de s'y retrouver. Le site EBI-ADHD a été conçu pour simplifier votre parcours. Grâce au tableau de bord interactif, comparez en un coup d'œil l'efficacité des différents traitements pour enfants, adolescents et adultes. La complexité de la recherche médicale est traduite en indicateurs visuels simples : impact sur le cerveau, qualité des preuves et tolérance au traitement. (Le site) : <a href="https://ebiadhd-database.org/fr/dashboard?category=brain">https://ebiadhd-database.org/fr/dashboard?category=brain</a>
+Entre les médicaments, les thérapies et les nouvelles méthodes, il est parfois difficile de s'y retrouver. Le site EBI-ADHD a été conçu pour simplifier votre parcours. Grâce au tableau de bord interactif, comparez en un coup d'œil l'efficacité des différents traitements pour enfants, adolescents et adultes. La complexité de la recherche médicale est traduite en indicateurs visuels simples : impact sur le cerveau, qualité des preuves et tolérance au traitement. (Le site) : https://ebiadhd-database.org/fr/dashboard?category=brain
 
 <ins>Durée moyenne de prise en charge en remédiation cognitive</ins> 
 
