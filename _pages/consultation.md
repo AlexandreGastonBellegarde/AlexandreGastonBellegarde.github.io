@@ -22,11 +22,9 @@ Il existe deux principales techniques de remédiation cognitive. La première co
 
 La seconde consiste à contourner la difficulté, en réfléchissant à des stratégies de compensation s’appuyant sur les capacités préservées du patient (par exemple, noter les informations à retenir, utiliser des moyens mnémotechniques…).
 
-<ins>Le déficit d’attention avec ou sans hyperactivité et impulsivité (TDAH)</ins> est un trouble qui est particulièrement approprié pour la remédiation cognitive en raison de ses composantes neurobiologiques et cognitives. 
+<ins>TDAH : Qu'est-ce qui fonctionne vraiment ? Découvrez-le grâce aux preuves scientifiques.</ins>
 
-Les méta-analyses et revues de la littérature montrent une amélioration de la mémoire de travail auditivo-verbale et/ou visuospatiale grâce à des programmes de remédiation cognitive comme Cogmed, auprès de populations atteintes de TDAH (https://doi.org/10.1016/j.neurenf.2019.11.001). Ces programmes ciblent les fonctions cognitives altérées et sont souvent informatisés pour permettre un ajustement automatique et continu du niveau de difficulté des tâches aux capacités du sujet (https://doi.org/10.3917/devel.008.0005).
-
-La remédiation cognitive et métacognitive pour le TDAH est donc soutenue par des preuves scientifiques, indiquant son efficacité dans l'amélioration des fonctions cognitives.
+Entre les médicaments, les thérapies et les nouvelles méthodes, il est parfois difficile de s'y retrouver. Le site EBI-ADHD a été conçu pour simplifier votre parcours. Grâce au tableau de bord interactif, comparez en un coup d'œil l'efficacité des différents traitements pour enfants, adolescents et adultes. La complexité de la recherche médicale est traduite en indicateurs visuels simples : impact sur le cerveau, qualité des preuves et tolérance au traitement. (Le site) : <a href="https://ebiadhd-database.org/fr/dashboard?category=brain">https://ebiadhd-database.org/fr/dashboard?category=brain</a>
 
 <ins>Durée moyenne de prise en charge en remédiation cognitive</ins> 
 
