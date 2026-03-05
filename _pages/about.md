@@ -14,7 +14,6 @@ La consultation en neuropsychologie
 ======
 La neuropsychologie est définie comme une discipline qui étudie les perturbations cognitives, comportementales et émotionnelles en lien avec des dysfonctionnements cérébraux. Chez l'enfant et l'adolescent et l'adulte.
 
-[## QUEL TYPE DE BILAN ?](https://alexandregastonbellegarde.github.io//bilan-qi-paris.html)
 
 <a href="https://alexandregastonbellegarde.github.io//bilan-qi-paris.html" style="display:inline-block;padding:14px 20px;margin:8px 0;background:#0b57d0;color:#fff !important;text-decoration:none;border:1px solid #0b57d0;border-radius:8px;font-weight:600;font-size:0.9rem;line-height:1.2;white-space:nowrap;">Découvrir mes consultations : Bilans de QI (Enfants/Adultes) et tests attentionnels à Paris</a>
 
