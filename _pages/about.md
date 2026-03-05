@@ -10,9 +10,13 @@ Psychologue spécialisé en neuropsychologie de formation puis développeur par 
 
 Un de mes réels points forts est une connaissance avancée des neurosciences et du développement informatique. Cela me permet decomprendre rapidement les besoins des chercheurs et des professionnelles afin de leur proposer des solutions logicielles et technologiques immédiates, innovantes et en adéquation avec leurs attentes.
 
-Consultation en neuropsychologie
+La consultation en neuropsychologie
 ======
-J'exerce également une activité de psychologue spécialisé en neuropsychologie. [Plus d'informations](https://alexandregastonbellegarde.github.io//talks/)
+La neuropsychologie est définie comme une discipline qui étudie les perturbations cognitives, comportementales et émotionnelles en lien avec des dysfonctionnements cérébraux. Chez l'enfant et l'adolescent et l'adulte.
+
+[## QUEL TYPE DE BILAN ?](https://alexandregastonbellegarde.github.io//bilan-qi-paris.html)
+
+[![Panneaux de direction](https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1400&q=80)](https://alexandregastonbellegarde.github.io//bilan-qi-paris.html)
 
 
 
