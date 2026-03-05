@@ -16,7 +16,7 @@ La neuropsychologie est définie comme une discipline qui étudie les perturbati
 
 [## QUEL TYPE DE BILAN ?](https://alexandregastonbellegarde.github.io//bilan-qi-paris.html)
 
-[![Panneaux de direction](https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1400&q=80)](https://alexandregastonbellegarde.github.io//bilan-qi-paris.html)
+<a href="https://alexandregastonbellegarde.github.io//bilan-qi-paris.html" style="display:inline-block;padding:14px 20px;margin:8px 0;background:#0b57d0;color:#fff !important;text-decoration:none;border:1px solid #0b57d0;border-radius:8px;font-weight:600;font-size:0.9rem;line-height:1.2;white-space:nowrap;">Découvrir mes consultations : Bilans de QI (Enfants/Adultes) et tests attentionnels à Paris</a>
 
 
 
