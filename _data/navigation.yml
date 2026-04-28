@@ -15,8 +15,5 @@ main:
   - title: "Formulaire de contact"
     url: /contact/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "CV"
     url: /cv/
