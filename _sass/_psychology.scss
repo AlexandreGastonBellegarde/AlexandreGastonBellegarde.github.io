@@ -691,6 +691,9 @@ body.psychology-site .page__content .psy-cta .psy-button {
 /* Footer --------------------------------------------------------------------- */
 
 .page__footer {
+  position: static;
+  bottom: auto;
+  margin-top: 0;
   color: #dce9e3;
   background: var(--psy-green-dark);
   border-top: 0;
@@ -699,7 +702,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
 .page__footer footer {
   max-width: 1180px;
   margin-top: 0;
-  padding: 42px 24px;
+  padding: 28px 24px;
 }
 
 .psy-footer {
@@ -744,7 +747,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
   grid-column: 1 / -1;
   justify-content: space-between;
   gap: 8px 20px;
-  padding-top: 20px;
+  padding-top: 14px;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
