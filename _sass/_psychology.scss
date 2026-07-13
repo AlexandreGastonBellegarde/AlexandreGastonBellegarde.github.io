@@ -673,6 +673,138 @@ body.psychology-site .page__content .psy-cta .psy-button {
   margin-top: 4px;
 }
 
+.psy-contact-form form {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.psy-contact-form form > label:not(.consent) {
+  display: block;
+  margin-top: 14px;
+  color: var(--psy-ink);
+  font-size: 0.86rem;
+  font-weight: 800;
+}
+
+.psy-contact-form form > input:not([type="checkbox"]):not([type="hidden"]),
+.psy-contact-form form > textarea {
+  width: 100%;
+  margin-top: 6px;
+  padding: 12px 13px;
+  color: var(--psy-ink);
+  font: inherit;
+  background: var(--psy-white);
+  border: 1px solid #b9c9c4;
+  border-radius: 10px;
+}
+
+.psy-contact-form .onglet {
+  margin-bottom: 18px;
+  margin-top: 18px;
+  overflow: hidden;
+  background: var(--psy-white);
+  border: 1px solid var(--psy-border);
+  border-radius: 14px;
+}
+
+.psy-contact-form .onglet > summary {
+  padding: 14px 16px;
+  color: var(--psy-ink);
+  font-weight: 800;
+  cursor: pointer;
+  background: var(--psy-sage-light);
+}
+
+.psy-contact-form .tests {
+  margin: 0;
+  padding: 10px 14px 4px;
+  border: 0;
+}
+
+.psy-contact-form .test-item {
+  display: block;
+  margin: 0;
+  padding: 11px 2px;
+  color: var(--psy-ink);
+  border-bottom: 1px solid var(--psy-border);
+  cursor: pointer;
+}
+
+.psy-contact-form .test-item:last-child {
+  border-bottom: 0;
+}
+
+.psy-contact-form .test-item input {
+  margin-right: 10px;
+}
+
+.psy-contact-form .test-title,
+.psy-contact-form .test-item small {
+  display: block;
+  margin-left: 28px;
+}
+
+.psy-contact-form .test-title {
+  font-size: 0.88rem;
+  font-weight: 800;
+}
+
+.psy-contact-form .test-item small,
+.psy-contact-form .hint {
+  color: var(--psy-muted);
+  font-size: 0.76rem;
+  line-height: 1.45;
+}
+
+.psy-contact-form .hint {
+  margin: 0;
+  padding: 2px 16px 14px;
+}
+
+.psy-contact-form .consent {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  margin-top: 18px;
+  color: var(--psy-muted);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.psy-contact-form .consent input {
+  margin-top: 4px;
+}
+
+.psy-contact-form form > button[type="submit"] {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  margin-top: 18px;
+  padding: 12px 20px;
+  color: var(--psy-white);
+  font: inherit;
+  font-weight: 800;
+  background: var(--psy-green);
+  border: 1px solid var(--psy-green);
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.psy-contact-form form > button[type="submit"]:hover {
+  background: var(--psy-green-dark);
+}
+
+.psy-contact-form .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  white-space: nowrap;
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+}
+
 .psy-form-status {
   display: none;
   margin-top: 16px;
