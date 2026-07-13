@@ -21,6 +21,9 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  white-space: normal; /* Permet au texte du bouton de passer à la ligne */
+  max-width: 100%; /* Empêche le bouton de dépasser la largeur de l'écran */
+  word-wrap: break-word; /* Coupe les mots trop longs si nécessaire */
 
   &:hover {
     background-color: mix(white, #000, 20%);
