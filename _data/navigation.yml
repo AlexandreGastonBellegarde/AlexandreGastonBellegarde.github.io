@@ -1,19 +1,16 @@
-# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Consultation Neuropsychologique"
-    url: /talks/    
-
-  - title: "Bilan QI à Paris"
+  - title: "Bilans"
     url: /bilan-qi-paris.html
 
-  - title: "Enseignements"
-    url: /teaching/
+  - title: "Suivis psychologiques"
+    url: /suivi-psychologique/
 
-  - title: "Formulaire de contact"
+  - title: "À propos"
+    url: /consultation/
+
+  - title: "Parcours universitaire"
+    url: /parcours-universitaire/
+
+  - title: "Prendre rendez-vous"
     url: /contact/
-
-  - title: "CV"
-    url: /cv/
+    class: "nav-cta"

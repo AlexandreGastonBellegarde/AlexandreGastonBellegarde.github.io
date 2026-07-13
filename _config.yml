@@ -6,12 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : " Alexandre Gaston Bellegarde "
+locale                   : "fr-FR"
+title                    : "Alexandre Gaston-Bellegarde"
+subtitle                 : "Psychologue · Neuropsychologie"
 title_separator          : "-"
-name                     : &name "Gaston-Bellegarde Alexandre"
-description              : &description "personal description"
-url                      : https://AlexandreGastonBellegarde.github.io/ # the base hostname & protocol for your site e.g. "https:/AlexandreGastonBellegarde.github.io"
+name                     : &name "Alexandre Gaston-Bellegarde"
+description              : &description "Psychologue spécialisé en neuropsychologie à Paris 17e : bilans cognitifs et attentionnels, accompagnement psychologique fondé sur les TCC et l’ACT."
+url                      : "https://alexandregastonbellegarde.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexandreGastonBellegarde/AlexandreGastonBellegarde.github.io"
 teaser                   : false
@@ -62,13 +63,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : /images/PhotoAlex.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Alexandre Gaston-Bellegarde"
+  links:
+    - "https://www.linkedin.com/in/alexandre-gaston-bellegarde-67160112b/"
+    - "https://github.com/AlexandreGastonBellegarde"
+    - "https://scholar.google.com/scholar?hl=fr&as_sdt=0,5&q=alexandre+gaston+bellegarde"
 
 
 # Analytics
@@ -80,14 +84,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Menu"
+  name             : "Alexandre Gaston-Bellegarde"
   avatar           : "PhotoAlex.png"
-  bio              : "Réseaux"
-  location         : "Paris, France"
+  bio              : "Psychologue spécialisé en neuropsychologie"
+  location         : "Paris 17e"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/scholar?hl=fr&as_sdt=0,5&q=alexandre+gaston+bellegarde"
-  email            :
+  email            : "alexandre.bellegarde@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -243,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris
 
 
 # Plugins
