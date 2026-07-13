@@ -244,6 +244,8 @@ body.psychology-site .pagination {
 }
 
 body.psychology-site .page__content .psy-button {
+  position: relative;
+  z-index: 2;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -258,6 +260,8 @@ body.psychology-site .page__content .psy-button {
   background: var(--psy-green);
   border: 1px solid var(--psy-green);
   border-radius: 999px;
+  cursor: pointer;
+  pointer-events: auto;
   transition: transform 160ms ease, background 160ms ease;
 }
 
@@ -693,7 +697,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
 .page__footer {
   position: static;
   bottom: auto;
-  margin-top: 0;
+  margin-top: 7rem;
   color: #dce9e3;
   background: var(--psy-green-dark);
   border-top: 0;
@@ -702,14 +706,14 @@ body.psychology-site .page__content .psy-cta .psy-button {
 .page__footer footer {
   max-width: 1180px;
   margin-top: 0;
-  padding: 28px 24px;
+  padding: 16px 24px;
 }
 
 .psy-footer {
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: 30px;
-  align-items: start;
+  gap: 14px 24px;
+  align-items: center;
 }
 
 .psy-footer__brand strong,
@@ -720,7 +724,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
 .psy-footer__brand strong {
   color: var(--psy-white);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 .psy-footer__brand span,
@@ -747,7 +751,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
   grid-column: 1 / -1;
   justify-content: space-between;
   gap: 8px 20px;
-  padding-top: 14px;
+  padding-top: 8px;
   border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
