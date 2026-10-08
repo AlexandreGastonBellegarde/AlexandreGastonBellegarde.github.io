@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Psychologue et neuropsychologue à Paris"
+title: "Psychologue à Paris 17e : bilans QI et attentionnels"
 description: "Bilans cognitifs, attentionnels et neuropsychologiques, suivis psychologiques fondés sur les TCC et l’ACT à Paris 17e."
 body_class: psychology-site
 hide_title: true
@@ -12,7 +12,8 @@ author_profile: false
   <section class="psy-hero" aria-labelledby="hero-title">
     <div class="psy-hero__copy">
       <p class="psy-eyebrow">Psychologue spécialisé en neuropsychologie · Paris 17e</p>
-      <h1 id="hero-title">Comprendre votre fonctionnement.<br>Retrouver des marges de choix.</h1>
+      <h1 id="hero-title">Psychologue à Paris 17e.<br>Bilans QI et attentionnels.</h1>
+      <p class="psy-home-approach">Comprendre votre fonctionnement. Retrouver des marges de choix.</p>
       <p class="psy-lead">Je propose des bilans cognitifs et attentionnels ainsi que des suivis psychologiques pour les enfants, les adolescents et les adultes. Mon approche s’appuie sur la neuropsychologie, les thérapies cognitives et comportementales (TCC) et la thérapie d’acceptation et d’engagement (ACT).</p>
       <div class="psy-actions">
         <a class="psy-button" href="/bilan-qi-paris.html">Découvrir les bilans</a>

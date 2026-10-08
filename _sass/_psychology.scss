@@ -28,7 +28,7 @@ body.psychology-site h1,
 body.psychology-site h2,
 body.psychology-site h3 {
   color: var(--psy-ink);
-  letter-spacing: -0.025em;
+  letter-spacing: 0;
 }
 
 body.psychology-site h1,
@@ -169,16 +169,20 @@ body.psychology-site .pagination {
 
 .psy-site h1 {
   margin: 0;
-  font-size: clamp(2.35rem, 6vw, 4.75rem);
+  font-size: 4.75rem;
   line-height: 1.02;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .psy-site h2 {
   margin: 0 0 16px;
   padding: 0;
-  font-size: clamp(1.85rem, 3.4vw, 3rem);
+  font-size: 3rem;
   line-height: 1.12;
   border: 0;
+  overflow-wrap: break-word;
+  hyphens: auto;
 }
 
 .psy-site h3 {
@@ -462,7 +466,7 @@ body.psychology-site .page__content .psy-panel--dark a {
 }
 
 .psy-hero h1 {
-  font-size: clamp(2.55rem, 5.2vw, 4.1rem);
+  font-size: 4.1rem;
 }
 
 .psy-hero__copy .psy-lead {
@@ -686,6 +690,7 @@ body.psychology-site .page__content .psy-cta .psy-button {
 }
 
 .psy-contact-form form > input:not([type="checkbox"]):not([type="hidden"]),
+.psy-contact-form form > select,
 .psy-contact-form form > textarea {
   width: 100%;
   margin-top: 6px;
@@ -695,6 +700,97 @@ body.psychology-site .page__content .psy-cta .psy-button {
   background: var(--psy-white);
   border: 1px solid #b9c9c4;
   border-radius: 10px;
+}
+
+.psy-contact-sidebar,
+.psy-contact-form {
+  min-width: 0;
+}
+
+.psy-contact-sidebar a,
+.psy-legal-page a {
+  overflow-wrap: anywhere;
+}
+
+.psy-site .psy-contact-form h2,
+.psy-site .psy-contact-details h2,
+.psy-site .psy-bilan-details h2 {
+  font-size: 1.5rem;
+  line-height: 1.2;
+}
+
+.psy-contact-form form > select {
+  min-height: 48px;
+  font-size: 0.88rem;
+}
+
+.psy-contact-form form > input:focus-visible,
+.psy-contact-form form > select:focus-visible,
+.psy-contact-form form > textarea:focus-visible,
+.psy-bilan-details summary:focus-visible {
+  outline: 3px solid var(--psy-green);
+  outline-offset: 3px;
+}
+
+.psy-contact-form #delai-note,
+.psy-contact-privacy {
+  margin: 14px 0 0;
+  font-size: 0.82rem !important;
+  line-height: 1.6;
+}
+
+.psy-contact-privacy {
+  color: var(--psy-muted);
+}
+
+.psy-site .psy-bilan-details {
+  padding: 30px 0 0;
+  font-size: 0.88rem;
+}
+
+.psy-bilan-details details {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--psy-border);
+}
+
+.psy-bilan-details summary {
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.psy-bilan-details details p {
+  margin: 14px 0 0;
+}
+
+.psy-bilan-details .psy-note {
+  margin-top: 20px;
+}
+
+.psy-home-approach {
+  margin-top: 18px;
+  font-weight: 600;
+}
+
+.psy-site.psy-legal-page {
+  max-width: 850px;
+}
+
+.psy-site.psy-legal-page section:not(.psy-page-hero) {
+  padding: 24px 0;
+  border-top: 1px solid var(--psy-border);
+}
+
+.psy-site.psy-legal-page h1 {
+  font-size: 2.6rem;
+  line-height: 1.15;
+}
+
+.psy-site.psy-legal-page h2 {
+  font-size: 1.65rem;
+}
+
+.psy-legal-page address {
+  font-style: normal;
 }
 
 .psy-contact-form .onglet {
@@ -908,9 +1004,41 @@ body.psychology-site .page__content .psy-cta .psy-button {
   border-top: 1px solid rgba(255, 255, 255, 0.15);
 }
 
+.page__footer .psy-footer__meta a {
+  color: var(--psy-white);
+}
+
+.psy-footer__credentials,
+.psy-footer__privacy {
+  grid-column: 1 / -1;
+  color: #dce9e3;
+  font-size: 0.78rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.psy-footer__credentials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+}
+
+.psy-footer__privacy {
+  margin: 0;
+}
+
 /* Responsive ----------------------------------------------------------------- */
 
 @media (max-width: 960px) {
+  .psy-site h1,
+  .psy-hero h1 {
+    font-size: 3.3rem;
+  }
+
+  .psy-contact-form {
+    order: -1;
+  }
+
   .psy-hero,
   .psy-split,
   .psy-contact-layout {
@@ -936,6 +1064,26 @@ body.psychology-site .page__content .psy-cta .psy-button {
 }
 
 @media (max-width: 680px) {
+  .psy-site h1 {
+    font-size: 2.35rem;
+  }
+
+  .psy-hero h1 {
+    font-size: 2.55rem;
+  }
+
+  .psy-site h2 {
+    font-size: 1.85rem;
+  }
+
+  .psy-site.psy-legal-page h1 {
+    font-size: 2rem;
+  }
+
+  .psy-contact-form {
+    padding: 20px;
+  }
+
   body.psychology-site #main {
     padding: 0 17px;
   }

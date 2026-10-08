@@ -127,6 +127,23 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

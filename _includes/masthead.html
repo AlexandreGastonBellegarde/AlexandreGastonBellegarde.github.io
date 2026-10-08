@@ -4,7 +4,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+        <button type="button" aria-label="Ouvrir le menu" aria-controls="site-navigation-overflow" aria-expanded="false"><div class="navicon" aria-hidden="true"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
             <a href="{{ base_path }}/" class="site-brand">
@@ -23,7 +23,7 @@
             </li>
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
+        <ul id="site-navigation-overflow" class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>

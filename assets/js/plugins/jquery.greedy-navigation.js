@@ -44,6 +44,7 @@ function updateNav() {
     // Hide the dropdown btn if hidden list is empty
     if(breaks.length < 1) {
       $btn.addClass('hidden');
+      $btn.removeClass('close').attr('aria-expanded', 'false').attr('aria-label', 'Ouvrir le menu');
       $hlinks.addClass('hidden');
     }
   }
@@ -67,6 +68,16 @@ $(window).resize(function() {
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+  var expanded = !$hlinks.hasClass('hidden');
+  $(this).attr('aria-expanded', expanded ? 'true' : 'false');
+  $(this).attr('aria-label', expanded ? 'Fermer le menu' : 'Ouvrir le menu');
+});
+
+$nav.on('keydown', function(event) {
+  if(event.key === 'Escape' && !$hlinks.hasClass('hidden')) {
+    $hlinks.addClass('hidden');
+    $btn.removeClass('close').attr('aria-expanded', 'false').attr('aria-label', 'Ouvrir le menu').focus();
+  }
 });
 
 updateNav();

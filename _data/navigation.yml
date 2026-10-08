@@ -2,6 +2,10 @@ main:
   - title: "Bilans"
     url: /bilan-qi-paris.html
 
+  - title: "Demander un rendez-vous"
+    url: /contact/
+    class: "nav-cta"
+
   - title: "Suivis psychologiques"
     url: /suivi-psychologique/
 
@@ -10,7 +14,3 @@ main:
 
   - title: "Parcours universitaire"
     url: /parcours-universitaire/
-
-  - title: "Prendre rendez-vous"
-    url: /contact/
-    class: "nav-cta"
