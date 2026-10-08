@@ -793,6 +793,32 @@ body.psychology-site .page__content .psy-cta .psy-button {
   background: var(--psy-green-dark);
 }
 
+.psy-contact-form form > button[type="submit"]:disabled {
+  opacity: 0.65;
+  cursor: wait;
+}
+
+.psy-contact-form .psy-form-feedback {
+  margin-top: 20px;
+  padding: 12px 14px;
+  border-left: 3px solid currentColor;
+  overflow-wrap: anywhere;
+}
+
+.psy-contact-form .psy-form-feedback[hidden] {
+  display: none;
+}
+
+.psy-form-feedback-success {
+  color: #245843;
+  background: #eff8f3;
+}
+
+.psy-form-feedback-error {
+  color: #8b2525;
+  background: #fff3f3;
+}
+
 .psy-contact-form .sr-only {
   position: absolute;
   width: 1px;
