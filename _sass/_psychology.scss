@@ -466,7 +466,19 @@ body.psychology-site .page__content .psy-panel--dark a {
 }
 
 .psy-hero h1 {
-  font-size: 4.1rem;
+  font-size: 3.35rem;
+  line-height: 1.12;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+
+.psy-assessment-page h1 {
+  font-size: 3.5rem;
+  line-height: 1.12;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
 }
 
 .psy-hero__copy .psy-lead {
@@ -1030,9 +1042,13 @@ body.psychology-site .page__content .psy-cta .psy-button {
 /* Responsive ----------------------------------------------------------------- */
 
 @media (max-width: 960px) {
-  .psy-site h1,
-  .psy-hero h1 {
+  .psy-site h1 {
     font-size: 3.3rem;
+  }
+
+  .psy-hero h1,
+  .psy-assessment-page h1 {
+    font-size: 2.8rem;
   }
 
   .psy-contact-form {
@@ -1069,7 +1085,11 @@ body.psychology-site .page__content .psy-cta .psy-button {
   }
 
   .psy-hero h1 {
-    font-size: 2.55rem;
+    font-size: 2.15rem;
+  }
+
+  .psy-assessment-page h1 {
+    font-size: 1.7rem;
   }
 
   .psy-site h2 {
@@ -1166,6 +1186,12 @@ body.psychology-site .page__content .psy-cta .psy-button {
 
   .psy-footer__links {
     justify-content: flex-start;
+  }
+}
+
+@media (max-width: 380px) {
+  .psy-assessment-page h1 {
+    font-size: 1.55rem;
   }
 }
 
